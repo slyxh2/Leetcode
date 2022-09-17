@@ -25,3 +25,21 @@ const traverse = (root) => {
     traverse(root.right);
 };
 
+
+
+var invertTree2 = function (root) {
+    traverse(root);
+    return root;
+};
+
+const traverse2 = (root) => {
+    if (root === null) return null;
+
+    let left = traverse(root.left);
+    let right = traverse(root.right);
+
+    root.left = right;
+    root.right = left;
+
+    return root;
+};
