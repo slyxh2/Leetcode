@@ -21,6 +21,12 @@
 
 ## Hash Table
 13. [Roman to Integer](/Hash%20Table/13.js)
+141. [Linked List Cycle](/Hash%20Table/141.js)
+169. [Majority Element](/Hash%20Table/169.js)
+202. [Happy Number](/Hash%20Table/202.js)
+205. [Isomorphic Strings](/Hash%20Table/205.js)
+
+
 
 ## Two Pointer
 9. [Palindrome Number](/Two%20Pointer/9.js)
