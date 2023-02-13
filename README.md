@@ -25,8 +25,7 @@
 169. [Majority Element](/Hash%20Table/169.js)
 202. [Happy Number](/Hash%20Table/202.js)
 205. [Isomorphic Strings](/Hash%20Table/205.js)
-
-
+219. [Contains Duplicate II](/Hash%20Table/219.js)
 
 ## Two Pointer
 9. [Palindrome Number](/Two%20Pointer/9.js)
