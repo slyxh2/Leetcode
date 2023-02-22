@@ -45,6 +45,8 @@
 125. [Valid Palindrome](/String/125.js)
 14. [Longest Common Prefix](/String/14.js)
 67. [Add Binary](/String/67.js)
+20. [Valid Parentheses](/String/20.js)
+
 
 
 
