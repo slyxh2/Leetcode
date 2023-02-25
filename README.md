@@ -26,6 +26,9 @@
 202. [Happy Number](/Hash%20Table/202.js)
 205. [Isomorphic Strings](/Hash%20Table/205.js)
 219. [Contains Duplicate II](/Hash%20Table/219.js)
+49. [Group Anagrams](/Hash%20Table/49.js)
+73. [Set Matrix Zeroes](/Hash%20Table/73.js)
+
 
 ## Two Pointer
 9. [Palindrome Number](/Two%20Pointer/9.js)
@@ -46,7 +49,6 @@
 14. [Longest Common Prefix](/String/14.js)
 67. [Add Binary](/String/67.js)
 20. [Valid Parentheses](/String/20.js)
-
 
 
 
