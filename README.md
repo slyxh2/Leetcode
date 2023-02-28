@@ -58,5 +58,6 @@
 206. [Reverse Linked List](/LInked%20list/206.js)
 234. [Palindrome Linked List](/LInked%20list/234.js)
 
-
+## Backtrack
+46. [Permutations](/backtrack/46.js)
 
