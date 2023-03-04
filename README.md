@@ -39,6 +39,8 @@
 34. [Find First and Last Position of Element in Sorted Array](/Binary%20Search/34.js)
 162. [Find Peak Element](/Binary%20Search/162.js)
 704. [Binary Search](/Binary%20Search/704.js)
+35. [Search Insert Position](/Binary%20Search/35.js)
+
 
 ## Array
 15. [3Sum](/Array/15.js)
@@ -49,8 +51,6 @@
 14. [Longest Common Prefix](/String/14.js)
 67. [Add Binary](/String/67.js)
 20. [Valid Parentheses](/String/20.js)
-
-
 
 ## Linkedlist
 25. [Reverse Nodes in k-Group](/LInked%20list/25.js)
